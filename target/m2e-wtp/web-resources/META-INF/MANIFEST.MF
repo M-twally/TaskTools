@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Specification-Title: enterprise-java-task
+Specification-Version: 1.0
+Specification-Vendor: JBoss by Red Hat
+Implementation-Title: enterprise-java-task
+Implementation-Version: 1.0
+Implementation-Vendor: JBoss by Red Hat
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://www.jboss.org/enterprise-java-task
+Java-Vendor: Oracle Corporation
+Java-Version: 19.0.1
+Os-Arch: amd64
+Os-Name: Windows 11
+Os-Version: 10.0
+Scm-Connection: scm:git:git@github.com:jboss/jboss-parent-pom.git/enterp
+ rise-java-task
+Scm-Revision: 
+Scm-Url: http://github.com/jboss/jboss-parent-pom/enterprise-java-task
+
